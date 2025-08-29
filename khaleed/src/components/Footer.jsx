@@ -39,7 +39,7 @@ const Footer = () => {
     },
     {
       label: "Instagram",
-      href: "https://instagram.com/ademola0777",
+      href: "https://instagram.com/khaleed.dev",
     },
       {
         label: "Tiktok",

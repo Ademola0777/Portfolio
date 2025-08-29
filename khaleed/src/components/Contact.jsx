@@ -59,7 +59,7 @@ const Contact = () => {
       alt: "Twitter X",
     },
     {
-      href: "https://instagram.com/ademola0777",
+      href: "https://instagram.com/khaleed.dev",
       icon: (
         <svg
           width="25"
